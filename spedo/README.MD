@@ -7,7 +7,7 @@ This Stack use Windows build 10.0.14393 (you can try to using another version)
 
 Works perfect in Lumia (tested 435)
 
-<img src="https://i.imgur.com/IMuh5EQ.jpeg" height="500">
+!(A photo of Lumia 435 with the app running)[https://i.imgur.com/IMuh5EQ.jpeg]
 
 ## Recomendations to dev, build, deploy
 
