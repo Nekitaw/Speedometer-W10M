@@ -7,9 +7,11 @@ This Stack use Windows build 10.0.14393 (you can try to using another version)
 
 Works perfect in Lumia (tested 435)
 
+!(A photo of Lumia 435 with the app running)[https://i.imgur.com/IMuh5EQ.jpeg]
+
 ## Recomendations to dev, build, deploy
 
-Use Visual Studio 2017 Community (I installed from chocolatey [https://community.chocolatey.org/packages/VisualStudio2017Community] `choco install visualstudio2017community`)
+Use Visual Studio 2017 Community (I installed from chocolatey https://community.chocolatey.org/packages/VisualStudio2017Community `choco install visualstudio2017community`)
 
 On Visual Studio 2017 installer, select the Windows SDK (this project use 10.0.14393 and I think it works on 10.0.17134)
 
